@@ -20,4 +20,5 @@ This is a demo of using GitHub for capstones.
 - Save all the pandas
 - Make more pandas
 - Human/Panda hybrid?
+- He's more Panda than man, now.
 - Profit
