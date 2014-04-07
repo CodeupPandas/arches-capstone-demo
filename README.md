@@ -15,6 +15,13 @@ This is a demo of using GitHub for capstones.
 
 ### Ideas
 
+- Connect all the pandas
+- Live stream all the pandas
+- Save all the pandas
+- Make more pandas
+- Human/Panda hybrid?
+- Profit
+
 ### Instructions
 
 - Create feature branch
