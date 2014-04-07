@@ -21,4 +21,6 @@ This is a demo of using GitHub for capstones.
 - Make more pandas
 - Human/Panda hybrid?
 - He's more Panda than man, now.
+- Revenues and costs happen before profits...
 - Profit
+- Prophet? Let's start a new wave religion!
