@@ -1,0 +1,4 @@
+# Ideas
+
+Reserve parking spot
+Find available parking in a location
