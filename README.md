@@ -20,6 +20,8 @@ This is a demo of using GitHub for capstones.
 - Save all the pandas
 - Make more pandas
 - Human/Panda hybrid?
+- He's more Panda than man, now.
+- Revenues and costs happen before profits...
 - Profit
 
 ### Instructions
