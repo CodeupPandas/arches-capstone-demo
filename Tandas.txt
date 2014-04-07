@@ -1,0 +1,1 @@
+Our project is a trust-based community savings/credit system.
