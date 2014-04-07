@@ -1,0 +1,28 @@
+CodeUp Capstone
+
+## 210Geeks Team 
+
+## Members:
+Izzy Rodriguez
+Joseph Villafranca
+Ryan Orsinger
+
+## Team Idea
+Computer Refurbishing Costing Program
+
+## Problem we're solving
+- 3 Redundant paperwork
+- some operational tasks exist only in human memory
+- accuracy of acquisition side inventory costing
+- 
+
+## solution
+Web Application for Employees and Management
+- Inventory Acquisition Costing Form
+- To Do list for Acquisition items
+- Admin dashboard for business insight
+- Page to add Refurbish costs to item
+- To Do list for Sell side
+	= Spec sheet
+	= QC Checklist
+	= Sign off on accountability
