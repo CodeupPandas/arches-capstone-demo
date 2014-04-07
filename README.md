@@ -23,4 +23,11 @@ This is a demo of using GitHub for capstones.
 - He's more Panda than man, now.
 - Revenues and costs happen before profits...
 - Profit
-- Prophet? Let's start a new wave religion!
+
+### Instructions
+
+- Create feature branch
+- Updates in feature
+- Push to GitHub
+- Issue pull request when complete
+- Follow review if comments
