@@ -21,3 +21,11 @@ This is a demo of using GitHub for capstones.
 - Make more pandas
 - Human/Panda hybrid?
 - Profit
+
+### Instructions
+
+- Create feature branch
+- Updates in feature
+- Push to GitHub
+- Issue pull request when complete
+- Follow review if comments
